@@ -62,7 +62,8 @@ outline:none;
 background-color:#ffffff;
 color: black;
 cursor: pointer;
-border-radius:0.5em}
+border-radius:0.5em;
+}
 .button2:hover
 {background-color:#90918e;
 
